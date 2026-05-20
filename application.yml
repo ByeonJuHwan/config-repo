@@ -4,4 +4,4 @@ test:
 spring:
   kafka:
     listener:
-      concurrency: 1
+      concurrency: 3
