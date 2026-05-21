@@ -1,7 +1,7 @@
 test:
-  message: "Hello World"
+  message: "Hello World!!"
 
 spring:
   kafka:
     listener:
-      concurrency: 3
+      concurrency: 2
