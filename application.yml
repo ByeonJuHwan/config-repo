@@ -6,6 +6,6 @@ spring:
     listener:
       concurrency: 3
     seek:
-      partition: 0
+      partition: 1
       topic: user.created
       timestamp: 1747977600
