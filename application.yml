@@ -5,3 +5,5 @@ spring:
   kafka:
     listener:
       concurrency: 3
+    seek:
+      partition: 0
